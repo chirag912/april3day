@@ -1,7 +1,7 @@
 from openai import OpenAI
 import streamlit as st
 
-st.title("HEALTH SYMPTOM CHECKER")
+st.title("HEALTH SYMPTOM CHECKE\\")
 
 # Initialize OpenAI client
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
